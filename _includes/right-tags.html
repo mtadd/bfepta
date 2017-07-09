@@ -1,0 +1,10 @@
+<h5>Tag Cloud</h5>
+<div class="tags">
+{% for tagData in site.tags %}
+  {% assign tag = tagData | first %}
+  {% assign posts = tag | last %}
+  <a class="tag-link" href="{{ tag | prepend:'/tag/' | relative_url }}">
+    {{tag}}</a>
+{% endfor %}
+</div>
+  

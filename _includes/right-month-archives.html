@@ -1,0 +1,14 @@
+<h5>Archives</h5>
+<ul class="archives list-group">
+{% assign last = nil %}
+{% for post in site.posts %}
+{%    if true or post.date.mon != last %}
+<li class="archive-item list-group-item">
+        <a class="archive-link" href="{{ post.date | date:'/%Y/%m' | relative_url }}">
+          {{ post.date | date:'%B %Y' }}</a>
+</li>
+{%      assign last = post.date.mon %}
+{%    endif %}
+{% endfor %}
+</ul>
+  

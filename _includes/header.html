@@ -1,9 +1,14 @@
-<header class="site-header" role="banner">
-
-  <div class="wrapper">
-    {% assign default_paths = site.pages | map: "path" %}
-    {% assign page_paths = site.header_pages | default: default_paths %}
-    <a class="site-title" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+<div class="page-header container-fluid">
+  <div class="d-flex flex-row">
+    <div class="p-2">
+    {% img bfe_logo_inverse.png %}
+    </div>
+    <div class="p-2">
+  <a class="header-title" href="{{ "/" | relative_url }}">
+    BRASSFIELD ROAD<br>
+   ELEMENTARY SCHOOL PTA 
+  </a>
+    </div>
   </div>
-</header>
-  {% include header.top-nav.html %}
+</div>
+{% include header.top-nav.html %}

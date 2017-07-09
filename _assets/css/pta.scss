@@ -1,0 +1,28 @@
+.page-header {
+    background-color: $red;
+    color: $white;
+}
+
+.page-header img {
+    margin-top: 15px;
+    width: 60px;
+    height: 48px;
+}
+
+a.header-title {
+    font-size: 24px;
+    font-family: Times New Roman;
+    &,
+    &:visited {
+        color: $white;
+    }
+
+}
+
+nav.navbar 
+{ 
+    padding-top: 0px; 
+    padding-bottom: 0px;
+    background-color: $red !important;
+}
+
