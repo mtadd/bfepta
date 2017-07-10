@@ -1,0 +1,5 @@
+SUBTREE_DIR=published/
+jekyll build -d $SUBTREE_DIR
+git add -A $SUBTREE_DIR
+git commit -m "Auto-update: $(date)"
+git subtree push --prefix=$SUBTREE_DIR origin gh-pages

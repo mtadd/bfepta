@@ -7857,21 +7857,41 @@ pre {
     color: #099; }
 
 .page-header {
-  background-color: #d9534f;
-  color: #fff; }
+  color: #0c0f31; }
 
 .page-header img {
-  margin-top: 15px;
-  width: 60px;
-  height: 48px; }
+  margin-top: 5px;
+  width: 96px;
+  height: 96px; }
+
+div.header-title-flex {
+  margin-top: 10px;
+  margin-left: 10px; }
 
 a.header-title {
-  font-size: 24px;
+  font-size: 28px;
   font-family: Times New Roman; }
-  a.header-title, a.header-title:visited {
-    color: #fff; }
+  a.header-title, a.header-title:visited, a.header-title:hover {
+    color: #0c0f31; }
 
 nav.navbar {
   padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #d9534f !important; }
+  padding-bottom: 3px;
+  background-color: #0c0f31 !important; }
+
+.right-column h5 {
+  margin-bottom: 5px; }
+.right-column hr {
+  padding-top: 3px;
+  padding-bottom: 3px; }
+.right-column .tags {
+  margin-bottom: 3px; }
+
+.archives {
+  list-style: none; }
+
+.bear-cloud {
+  float: right; }
+  .bear-cloud img {
+    width: 350px;
+    height: 350px; }
