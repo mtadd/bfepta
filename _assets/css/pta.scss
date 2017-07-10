@@ -1,20 +1,26 @@
 .page-header {
-    background-color: $red;
-    color: $white;
+    // background-color: $red;
+    color: $brassfield-blue-color;
 }
 
 .page-header img {
-    margin-top: 15px;
-    width: 60px;
-    height: 48px;
+    margin-top: 5px;
+    width: 96px;
+    height: 96px;
+}
+
+div.header-title-flex {
+    margin-top: 10px;
+    margin-left: 10px;
 }
 
 a.header-title {
-    font-size: 24px;
+    font-size: 28px;
     font-family: Times New Roman;
     &,
-    &:visited {
-        color: $white;
+    &:visited,
+    &:hover, {
+        color: $brassfield-blue-color;
     }
 
 }
@@ -22,7 +28,31 @@ a.header-title {
 nav.navbar 
 { 
     padding-top: 0px; 
-    padding-bottom: 0px;
-    background-color: $red !important;
+    padding-bottom: 3px;
+    background-color: $brassfield-blue-color !important;
 }
 
+.right-column {
+    h5 {
+        margin-bottom: 5px;
+    }
+    hr {
+        padding-top: 3px;
+        padding-bottom: 3px;
+    }
+    .tags {
+        margin-bottom: 3px;
+    }
+}
+
+.archives {
+    list-style: none;
+}
+
+.bear-cloud {
+    float: right;
+    img {
+        width: 350px;
+        height: 350px;
+    }
+}
