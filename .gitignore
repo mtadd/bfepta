@@ -3,4 +3,7 @@ _site
 .jekyll-metadata
 .asset-cache
 Gemfile.lock
+published/
+bfe_published/
+mtadd_published/
 

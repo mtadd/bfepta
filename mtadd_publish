@@ -1,4 +1,6 @@
-SUBTREE_DIR=published/
+SUBTREE_DIR=published_mtadd/
+rm -rf $SUBTREE_DIR
+cp _config.mtadd.yml _config.yml
 jekyll build -d $SUBTREE_DIR
 git add -A $SUBTREE_DIR
 git commit -m "Auto-update: $(date)"
