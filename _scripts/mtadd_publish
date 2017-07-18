@@ -1,5 +1,6 @@
 SUBTREE_DIR=published_mtadd/
 rm -rf $SUBTREE_DIR
+rm -rf published_bfe/
 cp _config.mtadd.yml _config.yml
 jekyll build -d $SUBTREE_DIR
 git add -A $SUBTREE_DIR
