@@ -1,8 +1,0 @@
-SUBTREE_DIR=published_mtadd/
-rm -rf $SUBTREE_DIR
-cp _config.mtadd.yml _config.yml
-jekyll build -d $SUBTREE_DIR
-git add -A $SUBTREE_DIR
-git commit -m "Auto-update: $(date)"
-# git push origin --delete gh-pages
-git subtree push --prefix=$SUBTREE_DIR origin gh-pages
