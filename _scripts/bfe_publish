@@ -1,9 +1,7 @@
-SUBTREE_DIR=published_bfe/
-rm -rf $SUBTREE_DIR
-rm -rf published_mtadd/
+SUBTREE_DIR=~/src/pta/brassfieldpta.github.io/
 cp _config.bfe.yml _config.yml
 jekyll build -d $SUBTREE_DIR
-git add -A $SUBTREE_DIR
-git commit -m "Auto-update: $(date)"
-git push bfepta --delete master
-git subtree push --prefix=$SUBTREE_DIR bfepta master
+# git add -A $SUBTREE_DIR
+# git commit -m "Auto-update: $(date)"
+# git push bfepta --delete master
+# git subtree push --prefix=$SUBTREE_DIR bfepta master
