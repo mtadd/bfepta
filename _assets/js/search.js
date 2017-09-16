@@ -19,7 +19,7 @@
 
   function getQueryVariable(variable) {
     var query = window.location.search.substring(1);
-      console.log(query)
+    console.log(query)
     var vars = query.split('&');
 
     for (var i = 0; i < vars.length; i++) {
@@ -32,11 +32,15 @@
   }
 
   var searchTerm = getQueryVariable('q');
-
   console.log(searchTerm);
+
   if (searchTerm) {
-    
     document.getElementById('search-box').setAttribute("value", searchTerm);
+      
+    gtag('event', 'view_search_results', {
+        'event_category': 'search',
+        'event_label': searchTerm
+    });
 
     // Initalize lunr with the fields it will be searching on. I've given title
     // a boost of 10 to indicate matches on this field are more important.
