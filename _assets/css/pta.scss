@@ -69,5 +69,19 @@ nav.navbar
 }
 
 p {
+    padding-left: 10px;
     color: $brassfield-blue-color;
+}
+
+.events > p {
+    font-size: 12px;
+}
+
+.events .signed {
+
+    padding-left: 20px;
+}
+
+.class-size-chaos {
+    font-size: 13px;
 }
