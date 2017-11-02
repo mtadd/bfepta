@@ -8,13 +8,9 @@
 
 <h4>Events</h4>
 
-{% capture now %}{{ now %}}{% endcapture %}
 {% for post in site.categories.events reversed %}
-   {% capture date %}{{ post.date }}{% endcapture %}
-      {% if date > now %}
         <a href="{{ post.url }}"><h5>{{post.title}}</h5></a>
         {{ post.excerpt }}
-      {% endif %}
 {% endfor %}
 
 <a href="http://www.signupgenius.com/go/5080b4ea9af2eabf58-school"><h5>School Wide Volunteer Opportunities</h5></a>
