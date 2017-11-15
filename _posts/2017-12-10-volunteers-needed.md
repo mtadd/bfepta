@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Volunteers Needed
-date: 2017-11-1 00:00:00 -0400
+date: 2017-12-10 00:00:00 -0400
 categories: events
 ---
 The Brassfield PTA needs parent volunteers to assist with maintaining the media center's math and science kits. Each kit engages children in a different math or science topic through at-home experiments, activities, books, and/or games.  Students may check the kits out weekly during their media center time. The PTA funds all of the kits' supplies, which are located in the PTA room.
