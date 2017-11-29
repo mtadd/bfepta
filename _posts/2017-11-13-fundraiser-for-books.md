@@ -2,7 +2,7 @@
 layout: post
 title: FUNDRAISER for BOOKS! -- Who will win??!
 date: 2017-11-13 00:00:00 -0400
-categories: events
+categories: past_events
 ---
 Next week, 11/13-11/17, we will be doing a change drive to help raise money for
 kids in local communities who need books!  Any additional money raised may be
