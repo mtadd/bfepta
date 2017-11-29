@@ -1,7 +1,7 @@
 ---
 layout: post
 title: YEARBOOKS!
-date: 2017-12-8 00:00:00 -0400
+date: 2018-1-1 00:00:00 -0400
 categories: events
 ---
 Last week's yearbook sale notice accidentally omitted a number from the job code - so sorry!  Below is the announcement with the correct code.
