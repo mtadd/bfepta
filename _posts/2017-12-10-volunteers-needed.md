@@ -1,14 +1,20 @@
 ---
 layout: post
-title: Volunteers Needed
+title: Math & Science Extravaganza Volunteers Needed
 date: 2017-12-10 00:00:00 -0400
 categories: events
 ---
-The Brassfield PTA needs parent volunteers to assist with maintaining the media center's math and science kits. Each kit engages children in a different math or science topic through at-home experiments, activities, books, and/or games.  Students may check the kits out weekly during their media center time. The PTA funds all of the kits' supplies, which are located in the PTA room.
+The Brassfield Math & Science Extravaganza committee seeks 2 volunteers to join John Jones and Jennifer Oldson. This year’s obligation will be light; simply shadow the current co-directors. Observe what currently is done, how it is done, and when it is done. In the hope that you stay with us the following year (2019) then, with John and Jennifer’s support, assume responsibility for some of the tasks as you become more comfortable. If, however, you do not want a mentoring period but are ready to become more actively engaged right now then reach out to John Jones and he will get you started (he promises). 
 
-Any amount of volunteer help is appreciated, and can be done at any time during school hours. Most kits take just a few minutes each to clean and restock. If you'd like to help out please contact Julie at [julschiavone@gmail.com](mailto:julschiavone@gmail.com) or Tara at [tarawilk@live.com](mailto:tarawilk@live.com).
+**Two types of persons are sought.**
+1. A person comfortable communicating with guest exhibitors; who would reach out to current and new/fresh guest exhibitors to arrange and track their confirmation to participate and to acquire their guest approval forms.
 
+2. A person comfortable with Microsoft Excel and Word; who would serve as registrar tracking participating students, printing certificates, and printing event night programs.
 
-To learn about other opportunities to help at Brassfield for registered volunteers, please visit the following links:
-* [Assist at a school-wide functions (entire school year dates located here)](http://www.signupgenius.com/go/5080b4ea9af2eabf58-school)
-* [Assist or serve on a PTA committee](http://www.signupgenius.com/go/5080b4ea9af2eabf58-brassfield)
+Ideally you are a parent/guardian with a student in the K-2 grades.  This is a once per year commitment that supports not only the students and their interest in science but engages parents and guardians and guest exhibitors lifting the evening above a mere show and tell to become a Brassfield community extravaganza! To become a part of this great service to others please contact John Jones or Jennifer Oldson this week. 
+
+Kindest regards, 
+
+John Jones - [jt.jones@earthlink.net](jt.jones@earthlink.net) - (919) 605-7976   
+Jennifer Oldson - [joldsondvm@gmail.com](joldsondvm@gmail.com) - [oldsonzoo@gmail.com](oldsonzoo@gmail.com)
+
