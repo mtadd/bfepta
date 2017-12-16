@@ -2,7 +2,7 @@
 layout: post
 title: BOOK FAIR ACTIVITIES & VOLUNTEERS!
 date: 2017-12-8 00:00:00 -0400
-categories: events
+categories: past_events
 ---
 Holidays are just around the corner. Are the lists generated? A fabulous gift idea for the children in your life is BOOKS!
 

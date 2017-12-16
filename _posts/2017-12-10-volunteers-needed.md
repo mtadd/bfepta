@@ -2,7 +2,7 @@
 layout: post
 title: Math & Science Extravaganza Volunteers Needed
 date: 2017-12-10 00:00:00 -0400
-categories: events
+categories: past_events
 ---
 The Brassfield Math & Science Extravaganza committee seeks 2 volunteers to join John Jones and Jennifer Oldson. This year’s obligation will be light; simply shadow the current co-directors. Observe what currently is done, how it is done, and when it is done. In the hope that you stay with us the following year (2019) then, with John and Jennifer’s support, assume responsibility for some of the tasks as you become more comfortable. If, however, you do not want a mentoring period but are ready to become more actively engaged right now then reach out to John Jones and he will get you started (he promises). 
 

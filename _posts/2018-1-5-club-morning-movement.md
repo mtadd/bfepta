@@ -6,6 +6,8 @@ categories: events
 ---
 A new club opportunity is coming in January 2018! The Brassfield Morning Movement Club will begin on **Friday, January 5, 2018 for (K-2)** & **Friday, January 12, 2018 for (3rd-5th.)** The club will meet from 8:00-8:45 AM on Friday mornings in the Multi-Purpose Room (Gym.) Each age group will meet every other week. The missions of the movement club are to get kids moving and to make them aware of how their breath can help them calm down and focus.  
 
+[Sign up your child for the club.](https://docs.google.com/spreadsheets/d/1ljsVXBXHPhOyiy5UzYjK7zgn6C1o1W4IT0RQf35iuHU/edit?usp=sharing) *Updated 12/15/2017* 
+
 ##### Morning Movement Club FAQs
 
 **How can I register my child for the club?** On-line. Look for the web link for the permission/registration on the Brassfield Web Site on Nov. 29th & in the Brassfield Bulletin E-Newsletter during that same week.
