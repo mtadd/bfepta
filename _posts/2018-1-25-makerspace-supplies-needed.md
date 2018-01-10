@@ -1,10 +1,10 @@
 ---
 layout: post
-title: MAKERSPACE Supplies needed!
+title: MAKERSPACE & Prize Supplies needed!
 date: 2018-1-25 00:00:00 -0400
 categories: events
 ---
-Items can be dropped off in the bin by the front doors, Ms. Kessler's, or Ms. Koester's room with a tag that says Makerspace on it!
+Items can be dropped off in the bin by the front doors, Ms. Kessler's, or Ms. Koester's room with a tag that says Makerspace on it! Prizes should be sent to Mr. Danahy's class.
 
 * duct tape (colored)
 * washi tape
