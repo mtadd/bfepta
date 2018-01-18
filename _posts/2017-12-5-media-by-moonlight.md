@@ -2,7 +2,7 @@
 layout: post
 title: MEDIA BY MOONLIGHT
 date: 2017-12-5 00:00:00 -0400
-categories: events
+categories: past_events
 ---
 Media by Moonlight Tuesday, Dec. 5th, 5:30 – 7:00pm: this will be a great
 family time with activities, food and books read by staff while parents can
