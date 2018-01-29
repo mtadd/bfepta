@@ -4,17 +4,23 @@ title: Brassfield Math & Science Extravaganza
 date: 2018-2-1 00:00:00 -0400
 categories: events
 ---
-The 2018 Brassfield Math & Science Extravaganza is just 3 weeks away!! This is a great opportunity for junior scientists and mathematicians to be creative, experience the scientific process, and learn something that interests them. This is NOT a judged event and is open to all grade levels.
+<strong><i style="color: red">NEW EVENT DATES</i></strong>. Due to two snow events resulting is many school day cancellations, the Math & Science Extravaganza is being moved to Tuesday, Feb 27th.This will allow our students more time to plan and execute their projects. Remember, this is NOT a judged event and is open to all grade levels. We encourage all students to come up with a project idea to research or a topic to learn more about. The internet is full of ideas to help spark your creativity.  
 
-**The registration deadline has been extended for all tracks.** Your student’s project does not to be complete by the registration deadline. They must just have a solid project idea, and the form submitted online or via hard copy.
+Updated event dates:
 
-* Tracks 1, 2 and 3 registration deadline: Friday, January 19th & Track 4 registration deadline: Tuesday, January 23rd
-         
+* Track 2 registration deadline: Friday, February 9th
+* Tracks 1, 3 and 4 registration deadline: Friday, February 16th
+* Set-up your projects/display at school: Monday, February 26th, 5:00-7:00pm
+* Math & Science Extravaganza Night!: Tuesday, February 27th, 6:00-8:00pm (pizza served at 5:30pm)
+ 
 You now have 2 convenient ways to register
 
-* Please review [this information packet](http://track.spe.schoolmessenger.com/f/a/d_PRr8SS-L7mMerSqQFalQ~~/AAAAAQA~/RgRcOlnlP0RSaHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xMTA4TXlQV3BNUlpRY1h2UG5maEtUcGNCaWhEcF9hRDUvdmlldz91c3A9c2hhcmluZ1cHc2Nob29sbVgEAAAAAEIKAAJlJllabHU_wg~~), complete/sign the entry form, and have your student return page 3 only to their teacher. Hard copies are available in the front office.
+* Please review [this information packet](https://docs.google.com/forms/d/1wlhld7A45k1uC4Bs06xar2YAq7RMESZhBK-8O_dzYv4/edit?usp=sharing), complete/sign the entry form, and have your student return page 3 only to their teacher. Hard copies are available in the front office.
 
-* **NEW!!** Complete the [online registration form](http://track.spe.schoolmessenger.com/f/a/1NSsJN8sHHyc7ZLb5iVmug~~/AAAAAQA~/RgRcOlnlP0RdaHR0cHM6Ly9kb2NzLmdvb2dsZS5jb20vZm9ybXMvZC8xd2xobGQ3QTQ1azF1QzRCczA2eGFyMllBcTdSTUVTWmhCSy04T19kell2NC9lZGl0P3VzcD1zaGFyaW5nVwdzY2hvb2xtWAQAAAAAQgoAAmUmWVpsdT_C).
+* **NEW!!** Complete the [online registration form](http://track.spe.schoolmessenger.com/f/a/waFMJvGTIyzzCmw8wguMGQ~~/AAAAAQA~/RgRcOlnsP0RSaHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xMTA4TXlQV3BNUlpRY1h2UG5maEtUcGNCaWhEcF9hRDUvdmlldz91c3A9c2hhcmluZ1cHc2Nob29sbVgEAAAAAEIKAANsJlla45Yhsw~~).
+
+
+*All who previously registered will automatically roll over to the new event date. Please let the co-chairs know if you need to withdraw from the new date. All versions of paper entry forms will be accepted.
 
 **Questions?** - Please contact the co-chairs [Jennifer Oldson](mailto:oldsonzoo@gmail.com) and [Kim Fryar](mailto:KimRFryar@gmail.com)
 
