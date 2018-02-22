@@ -2,7 +2,7 @@
 layout: post
 title: Brassfield Math & Science Extravaganza
 date: 2018-2-1 00:00:00 -0400
-categories: events
+categories: past_events
 ---
 <strong><i style="color: red">NEW EVENT DATES</i></strong>. Due to two snow events resulting is many school day cancellations, the Math & Science Extravaganza is being moved to Tuesday, Feb 27th.This will allow our students more time to plan and execute their projects. Remember, this is NOT a judged event and is open to all grade levels. We encourage all students to come up with a project idea to research or a topic to learn more about. The internet is full of ideas to help spark your creativity.  
 
