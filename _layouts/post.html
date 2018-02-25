@@ -16,6 +16,9 @@
             </div>
             <div class="col-md-4">
               {% include right-column-events.html %}
+              <br>
+              {% capture oe %}{% include other-events.md %}{% endcapture %}
+              {{ oe | markdownify }}
             </div>
           </div>
         </div>
