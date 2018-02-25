@@ -1,15 +1,13 @@
 ---
 layout: post
 title: Brassfield Math & Science Extravaganza
-date: 2018-2-1 00:00:00 -0400
-categories: past_events
+date: 2018-2-27 00:00:00 -0400
+categories: events
 ---
 <strong><i style="color: red">NEW EVENT DATES</i></strong>. Due to two snow events resulting is many school day cancellations, the Math & Science Extravaganza is being moved to Tuesday, Feb 27th.This will allow our students more time to plan and execute their projects. Remember, this is NOT a judged event and is open to all grade levels. We encourage all students to come up with a project idea to research or a topic to learn more about. The internet is full of ideas to help spark your creativity.  
 
 Updated event dates:
 
-* Track 2 registration deadline: Friday, February 9th
-* Tracks 1, 3 and 4 registration deadline: Friday, February 16th
 * Set-up your projects/display at school: Monday, February 26th, 5:00-7:00pm
 * Math & Science Extravaganza Night!: Tuesday, February 27th, 6:00-8:00pm (pizza served at 5:30pm)
  
