@@ -2,7 +2,7 @@
 layout: post
 title: WAKE Up and Read Book Drive
 date: 2018-3-3 00:00:00 -0400
-categories: events
+categories: past_events
 ---
 
 Brassfield Road Elementary will once again be one of Wake County's "Wake Up & Read" Book Drive Location Sites. We will be collecting new and gently used books from **January 20 – March 3, 2018. Book donation guidelines**:
