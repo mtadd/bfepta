@@ -2,7 +2,7 @@
 layout: post
 title: Masterpiece Monday! 3/12 from 8:45-11:45ish
 date: 2018-3-12 08:45:00 -0400
-categories: events
+categories: past_events
 ---
 Greetings from the Art Room, If you are interested in helping display student artwork in the frames throughout the main building at Brassfield, we would love to have your help for our semi-annual Masterpiece Monday framing event the morning of March 12th! Please feel free to join us during student arrival. 
 

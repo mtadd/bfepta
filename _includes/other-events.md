@@ -1,8 +1,6 @@
 
 #### Upcoming Dates & Events
 * __March__
-  * 3/14/2018 Tracks 2 & 4, Spring Class & Individual Pictures
-  * 3/14/2018 3:45 PM - 4:45 PM Running Club, Grades 3-5
   * 3/19-3/29 Spring Book Fair
   * 3/22/2018 
     * 2:15 PM Tracks 2 & 4, K-2, Pawsitive Paws Celebration
