@@ -2,7 +2,7 @@
 layout: post
 title: PTA Budget Spending
 date: 2018-3-23 08:45:00 -0400
-categories: events
+categories: past_events
 ---
 Your feedback is requested on PTA Budget Spending:
 <br>
