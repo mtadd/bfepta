@@ -6,7 +6,6 @@ categories: events
 ---
 Great news - the deadline for ordering Brassfield's 2017-2018 yearbook has been extended!  
 
-The paper order forms that were sent home with students are now due Monday, April 2, due to the original March 30 deadline falling on Good Friday.  
 
 Online ordering has been extended to Friday, April 13! To order online, visit [https://ybpay.lifetouch.com](https://ybpay.lifetouch.com) and enter the yearbook ID code 9389418.  
 

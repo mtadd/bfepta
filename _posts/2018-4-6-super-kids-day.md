@@ -2,7 +2,7 @@
 layout: post
 title: Super Kids Day – Friday, April 6th – Tracks 2 and 3
 date: 2018-4-6 00:00:00 -0400
-categories: events
+categories: past_events
 ---
 Super Kids Day – Friday, April 6th – Tracks 2 and 3
 We are seeking parent volunteers (must be wake county approved) to help make our annual Super Kids Day (Field Day) a success by running stations and cheering our students on. Our students love Super Kids Day and will enjoy seeing a parent attend this event. No prior experience is needed. First time volunteers are encouraged and welcome! 

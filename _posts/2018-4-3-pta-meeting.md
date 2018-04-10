@@ -2,7 +2,7 @@
 layout: post
 title: PTA Meetings
 date: 2018-4-3 00:00:00 -0400
-categories: events
+categories: past_events
 ---
 The next meeting is scheduled for 4/3, Tuesday, at 9:15am.  All are welcome!
 

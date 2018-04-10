@@ -2,7 +2,7 @@
 layout: post
 title: PTA Coffee Chats - Thursday, 4/6
 date: 2018-4-6 00:00:00 -0400
-categories: events
+categories: past_events
 ---
 Join us for coffee and learn how to get involved and engaged at BRES!
 
