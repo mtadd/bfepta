@@ -2,7 +2,7 @@
 layout: post
 title: YEARBOOK ORDERS -- Deadline Extended
 date: 2018-4-13 00:00:00 -0400
-categories: events
+categories: past_events
 ---
 Great news - the deadline for ordering Brassfield's 2017-2018 yearbook has been extended!  
 

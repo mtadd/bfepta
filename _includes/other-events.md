@@ -1,16 +1,5 @@
 
 #### Upcoming Dates & Events
-* __April__
-  * 4/16/2018 Office Staff & Principal Appreciation Week
-  * 4/18/2018 Staff Appreciation Luncheon
-  * 4/19/2018 Kindergarten Community Helper Day
-  * 4/19/2018 Spirit Day: Tie Dye Day
-    * 5:00 PM - 8:00 PM Spirit Night: Adventure Landing
-  * 4/24/2018 McTeacher Spirit Night - Falls Point McDonalds
-  * 4/25/2018
-    * 9:30 AM - 10:15 AM K-2, Cultural Arts Performance: Donna Washington
-    * 10:30 AM = 11:15 AM 3-5, Cultural Arts Performance: Donna Washington
-  * 4/28/2018 10:00 AM - 4:00 PM Letterland Day at Pullen Park
 * __May__
   * 5/7/2018 Tracks 1, 2, 4 Teacher Appreciation Week
   * 5/11/2018 Tracks 1 & 4, Super Kids Day
@@ -35,7 +24,7 @@
     * 9:30 AM Track 1, 5th grade Graduation
   * 6/11/2018 
     * Spirit Day: Wear Blue & Yellow
-    * Spirit Night: Zaxby's, 8812 Harvest Oaks Dr
+    * Spirit Night: Zaxby's, [8812 Harvest Oaks Dr](https://maps.google.com/?q=8812+Harvest+Oaks+Dr&entry=gmail&source=g)
   * 6/21/2018
     * 2:15 PM Tracks 2 & 4, K-2, Pawsitive Paws Celebration
     * 2:40 PM - 3:00 PM Tracks 2 & 4, 3-5, Pawsitive Paws Celebration
