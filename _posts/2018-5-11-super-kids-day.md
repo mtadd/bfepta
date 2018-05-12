@@ -2,7 +2,7 @@
 layout: post
 title: Super Kids Day – Friday, May 11th – Tracks 1 and 4
 date: 2018-5-11 00:00:00 -0400
-categories: events
+categories: past_events
 ---
 One down, One to go! We are seeking parent volunteers (must be wake county approved) to help make our annual **Super Kids Day (Field Day)** a success by running stations and cheering our students on. Students love Super Kids Day and will enjoy seeing a parent attend this event. No prior experience is needed. In fact, first time volunteers are encouraged and welcome!
 

@@ -1,8 +1,6 @@
 
 #### Upcoming Dates & Events
 * __May__
-  * 5/7/2018 Tracks 1, 2, 4 Teacher Appreciation Week
-  * 5/11/2018 Tracks 1 & 4, Super Kids Day
   * 5/14/2018 3:45 PM - 5:00 PM Drama Club Dress Rehearsal, Grades 3-5, Tracks 1 & 4
   * 5/15/2018 
     * 4:15 PM Drama Club Performance for Family, Grades 3-5, Tracks 1 & 4
