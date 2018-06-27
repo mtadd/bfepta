@@ -2,7 +2,7 @@
 layout: post
 title: TEACHER APPRECIATION WEEKS
 date: 2018-5-7 00:00:00 -0400
-categories: events
+categories: past_events
 ---
 TEACHER APPRECIATION WEEKS -  Tracks 1, 2, & 4:  May 7-11, or Track 3 is May 21-25.
 <br>

@@ -2,7 +2,7 @@
 layout: post
 title: Spring Carnival - Friday, June 1st - Come One, Come All!
 date: 2018-6-1 00:00:00 -0400
-categories: events
+categories: past_events
 ---
 Brassfield’s first Spring Carnival will be held on **Friday, June 1st**  in the Lower Field @ 5-8 PM. Bring the family out to enjoy inflatables, games, food, prizes, face painting, a cake walk, a dunk booth and more.   
 
